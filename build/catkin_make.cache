@@ -1,0 +1,2 @@
+planner1
+-DCATKIN_DEVEL_PREFIX=/home/parth/reeds/devel -DCMAKE_INSTALL_PREFIX=/home/parth/reeds/install -G Unix Makefiles

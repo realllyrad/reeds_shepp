@@ -1,0 +1,8 @@
+prefix=/home/parth/reeds/devel
+
+Name: planner1
+Description: Description of planner1
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
